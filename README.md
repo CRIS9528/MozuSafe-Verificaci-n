@@ -491,6 +491,7 @@ let editId = null;
 
 const CERT_LABELS = {
   armas:'Portaci\u00f3n de armas',
+  supervisor:'Supervisor de seguridad privada',
   basico:'Seguridad privada b\u00e1sico',
   primeros:'Primeros auxilios',
   brigadas:'Brigadas de emergencia',
