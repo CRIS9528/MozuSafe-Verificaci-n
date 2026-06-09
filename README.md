@@ -291,7 +291,7 @@ tr:hover td{background:rgba(255,255,255,.015)}
           </div>
         </div>
         <div class="status-meta">
-          <div><strong id="prof-empresa">MozuSafe Security Solutions</strong></div>
+          <div><strong id="prof-empresa">MozuSafe</strong></div>
           <div>3-102-961429 S.R.L.</div>
           <div id="prof-ts">—</div>
         </div>
@@ -329,7 +329,7 @@ tr:hover td{background:rgba(255,255,255,.015)}
       </div>
 
       <div class="prof-footer">
-        <div class="footer-co">Empresa contratante: <strong>MozuSafe Security Solutions</strong></div>
+        <div class="footer-co">Empresa contratante: <strong>MozuSafe</strong></div>
         <div class="footer-ts" id="prof-footer-ts">—</div>
       </div>
     </div>
@@ -342,7 +342,7 @@ tr:hover td{background:rgba(255,255,255,.015)}
     <div class="login-card">
       <div style="font-size:28px;margin-bottom:12px">🔐</div>
       <div class="login-title">Panel Administrativo</div>
-      <div class="login-sub">MozuSafe Security Solutions — Acceso restringido</div>
+      <div class="login-sub">MozuSafe — Acceso restringido</div>
       <div class="fl">
         <div class="err" id="login-err">Credenciales incorrectas.</div>
         <div class="fg"><label>Usuario</label><input id="lu" placeholder="admin@mozusafe.com"></div>
